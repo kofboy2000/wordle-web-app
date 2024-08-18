@@ -1,6 +1,6 @@
 const WORD_LENGTH = 5;
 const MAX_ATTEMPTS = 6;
-const targetWord = "APPLE"; // 정답 단어는 변경할 수 있습니다.
+const targetWord = "COLOR"; // 정답 단어는 변경할 수 있습니다.
 let currentAttempt = 0;
 let currentTile = 0;
 let gameEnded = false;
